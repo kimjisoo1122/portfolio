@@ -11,7 +11,7 @@
 
 ## :pushpin: Contact
 - 이메일: kimjisoo4953@gmail.com
-- 깃헙: https://github.com/KJS1122
+- 깃헙: https://github.com/kjs1122
 
 </br>
 
@@ -24,7 +24,7 @@
 >Java 8 / Spring Regacy / Maven / MyBatis / 
 >Oracle / Spring Security / Jacascript / Jquery
 >  
->[프로젝트 상세 설명](https://github.com/KJS1122/time_project) 참고
+>[프로젝트 상세 설명](https://github.com/kjs1122/time_project) 참고
 
 ---
 
